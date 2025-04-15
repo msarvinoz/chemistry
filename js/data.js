@@ -191,7 +191,7 @@ const data = [
         qh: "2573 K ",
         mh: "4.6 sm³/mol",
         pt: "romboedrik",
-        dic: ""
+        dic: "Kislorod (lotincha: Oxygenium, yun. oxys — nordon va gennao — tugʻmoq), O — Mendeleyev davriy sistemasining VI guruhiga mansub kimyoviy element. Tartib raqami 8, atom massasi 15,9994. Ilk bor shved kimyogari Kislorod Sheyele (1771) selitra (KNO3, NaNO3)HH, marganets qoʻsh oksid (MpO2)ni va ingliz kimyogari Kislorod Pristli (1774) simob oksid (HgO)HH, surik (R^O^ni qizdirish natijasida bir-biridan mustaqil holda ajratib olishgan. 1775-yilda Kislorod Lavuazye havo azot va kisloroddan iborat ekanligini aniqladi. Kislotalar tarkibida Kislorod borligidan Lavuazye uni oxygen, yaʼni "kislota hosil qiluvchi" deb atadi. "
     },
 
     {
